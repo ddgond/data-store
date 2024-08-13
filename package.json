@@ -1,0 +1,19 @@
+{
+  "name": "data-store",
+  "version": "1.0.0",
+  "description": "Simple utility for storing state in the user's data directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddgond/data-store.git"
+  },
+  "author": "Daniel Dangond",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddgond/data-store/issues"
+  },
+  "homepage": "https://github.com/ddgond/data-store#readme"
+}

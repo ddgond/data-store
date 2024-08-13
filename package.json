@@ -1,5 +1,5 @@
 {
-  "name": "data-store",
+  "name": "@ddgond/data-store",
   "version": "1.0.0",
   "description": "Simple utility for storing state in the user's data directory",
   "main": "index.js",
